@@ -6,4 +6,4 @@ Machine Learning algorithms that used in this project:
 - Logistic Regression
 
 
-You can find dataset from here: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+You can find large dataset from here: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
